@@ -1,6 +1,6 @@
 # LoRA Fine-Tuning Starter
 
-A GitHub-ready starter project for supervised fine-tuning (SFT) of a small instruction-following language model with **LoRA**, using Hugging Face Transformers and PEFT.
+A project for supervised fine-tuning (SFT) of a small instruction-following language model with **LoRA**, using Hugging Face Transformers and PEFT.
 
 Default base model: `Qwen/Qwen2.5-0.5B-Instruct`
 
