@@ -1,0 +1,6 @@
+{"instruction":"What is Python?","input":"","output":"Python is a high-level, general-purpose programming language known for its readable syntax and broad ecosystem."}
+{"instruction":"What is Django?","input":"","output":"Django is a high-level Python web framework that provides an integrated set of tools for building web applications."}
+{"instruction":"What is Flask?","input":"","output":"Flask is a lightweight Python web framework that provides routing and request handling while allowing developers to choose additional components."}
+{"instruction":"What is Redis?","input":"","output":"Redis is an in-memory data store commonly used for caching, messaging, and fast data access."}
+{"instruction":"Explain PostgreSQL briefly.","input":"","output":"PostgreSQL is an open-source relational database system with support for SQL, transactions, indexing, and advanced data types."}
+{"instruction":"What is an API?","input":"","output":"An API is an interface that allows software systems to communicate through defined requests and responses."}
